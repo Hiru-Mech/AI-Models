@@ -1,4 +1,4 @@
-# AI-Models
+# CNN-Models
 I used Google Colab to practice and understand convolution operations. 
 This powerful tool has been instrumental in visualizing and experimenting with various convolution techniques, which are the backbone of computer vision tasks.
 This project involved replicating a Convolutional Neural Network (CNN) model to classify images based on preset values. 
